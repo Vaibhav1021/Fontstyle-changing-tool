@@ -2,7 +2,7 @@
 
 It is a useful tool which comes in handy for changing the computer typed font to handwritten font.
 #
-#
+
 The Project is divided into to parts:
 
 ## Part-I(Alphabets font change)
